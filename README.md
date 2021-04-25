@@ -17,9 +17,9 @@ International (following UK timezones).
 
 # Project Guideline
 * Development tools used to build the project:
-  #^  Back-end: Python (Visual studio). Use of two different APIs to scrape financials and recommendations using Yahoo for the interactive investment bot.
+  ** Back-end: Python (Visual studio). Use of two different APIs to scrape financials and recommendations using Yahoo for the interactive investment bot.
             Also developed a beta version of the interactive investment bot using Interactive Brokers (IBAPI, not used in final project due to limited data access).
-  #^  Front-end: JavaScript. Connected to back-end through Flask.
+  ** Front-end: JavaScript. Connected to back-end through Flask.
 
 * SDKs used:
   #^  Adobe Dreamweaver.
