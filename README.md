@@ -1,7 +1,7 @@
 # Visionari3s_Longevity_Banking
 
-## Visionari3s
-## Longivity Bank
+Team name:      Visionari3s
+Project name:   Longivity Bank
 
 ## Team Members
 (Captain incl. mobile phone number)
