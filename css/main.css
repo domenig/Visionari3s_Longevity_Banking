@@ -1,0 +1,42 @@
+/* CSS Document */
+
+
+:root {
+  --white: #ffff;
+  --black: #000000;
+  --navy-blue: #070344;
+  --pink: #FF007C;
+  --sky-blue: #15F5CF;
+  --dark-red: #A72D68;
+  --blue: #2D62ED;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+.ishidden{
+	display: none;
+}
+
+.active{
+	color: var(--sky-blue);
+}
+
+.nav{
+	background-color: var(--navy-blue);
+}
+
+.navbarimg{
+	max-height: 2em;
+	max-width: 10em;
+}
+	/*navy-blue: #070344;
+	pink: #FF007C;
+	sky-blue: #15F5CF;
+	dark-red: #A72D68;
+	blue: #2D62ED;
+*/
