@@ -8,7 +8,7 @@ Team 4
 *   Alfonso Meraz(USA)
 *    Alejandra Gassó Azanza (UK)
 *    Philipp Domenig(Austria)
-*    Oghenekparobo Onosemuode( Nigeria)
+*    Oghenekparobo Onosemuode(Nigeria)
 *    Rafael Gago (Chile)
 
 ## Team Location
