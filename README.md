@@ -9,7 +9,6 @@ Team 4
 *    Alejandra Gassó Azanza (UK)
 *    Philipp Domenig(Austria)
 *    Oghenekparobo Onosemuode( Nigeria)
-*    Eros Moura Lima(Brasil)
 *    Rafael Gago (Chile)
 
 ## Team Location
