@@ -7,8 +7,8 @@ Project name:   Longivity Bank
 Team 4
 *   Alfonso Meraz(USA)
 *    Alejandra Gassó Azanza (UK)
-*    Philipp Domenig(Austria)
-*    Oghenekparobo Onosemuode(Nigeria)
+*    Philipp Domenig (Austria)
+*    Oghenekparobo Onosemuode (Nigeria)
 *    Rafael Gago (Chile)
 
 ## Team Location
